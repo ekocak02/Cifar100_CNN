@@ -16,7 +16,7 @@ This project is a Convolutional Neural Network (CNN) model built using TensorFlo
 To run this project, you need to have Python installed along with the required dependencies. You can install them using:
 
 ```bash
-pip install tensorflow numpy matplotlib
+pip install tensorflow numpy matplotlib scikit-learn
 ```
 
 ## Usage
